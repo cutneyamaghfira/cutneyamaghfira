@@ -22,6 +22,6 @@ i love building clean, useful, and aesthetic digital products
 
 <br/>
 
-> creating soft, simple, and meaningful things with code ♡
+creating soft, simple, and meaningful things with code ♡
 
 </div>
