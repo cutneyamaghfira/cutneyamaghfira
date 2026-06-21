@@ -15,13 +15,3 @@ i love building clean, useful, and aesthetic digital products
 ![React](https://img.shields.io/badge/React-fff0f6?style=flat\&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-fff0f6?style=flat\&logo=next.js)
 ![Electron](https://img.shields.io/badge/Electron-fff0f6?style=flat\&logo=electron)
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=cutneyamaghfira&show_icons=true&theme=rose_pine&hide_border=true" height="160" />
-
-<br/>
-
-creating soft, simple, and meaningful things with code ♡
-
-</div>
